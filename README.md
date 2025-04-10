@@ -36,7 +36,23 @@ Simulador de gestor de finanzas en pseint
 ![imagen](https://github.com/user-attachments/assets/d87d2dbe-aba2-4b9c-97e4-22c8f6380bc9)
 
 
-4. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales  
+4. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales
+
+
+![image](https://github.com/user-attachments/assets/92d237af-e3a8-4152-9634-a9cecbb3200b)
+
+
+![image](https://github.com/user-attachments/assets/05c0612c-e84e-44bc-b4d9-8ad2850dd709)
+
+
+![image](https://github.com/user-attachments/assets/3f226cf6-30e1-41e2-9e87-476210e33e38)
+
+
+![image](https://github.com/user-attachments/assets/6d3e84ae-05bc-439d-b79c-c779ad8ac9a0)
+
+
+![image](https://github.com/user-attachments/assets/889dc55b-d147-4ce6-b7a0-406d737b9cb0)
+
 
 ---
 ### 🛠️ Desarrollador - Implementación
