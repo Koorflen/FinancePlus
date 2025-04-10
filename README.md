@@ -31,7 +31,12 @@ Simulador de gestor de finanzas en pseint
 **Bocetos:**
 1. **Pantalla1**:Interfaz principal de la app
 2. **Pantalla2**:Panel de gastos
-3. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales  
+
+
+![image](https://github.com/user-attachments/assets/4399e8a5-3e0a-475b-a871-6412f258742a)
+
+
+4. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales  
 
 ---
 ### 🛠️ Desarrollador - Implementaci
