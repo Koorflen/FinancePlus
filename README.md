@@ -33,7 +33,7 @@ Simulador de gestor de finanzas en pseint
 2. **Pantalla2**:Panel de gastos
 
 
-![image](https://github.com/user-attachments/assets/4399e8a5-3e0a-475b-a871-6412f258742a)
+![imagen](https://github.com/user-attachments/assets/d87d2dbe-aba2-4b9c-97e4-22c8f6380bc9)
 
 
 4. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales  
