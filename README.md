@@ -72,6 +72,11 @@ Simulador de gestor de finanzas en pseint
 
 **Caso 4**: El proceso se detiene si no se quiere hacer mas simulaciones
 
+![Imagen de WhatsApp 2025-04-09 a las 19 18 38_66b62300](https://github.com/user-attachments/assets/f2665c3f-7a83-48b3-84ba-93486f6aa817)
+
+
+![Imagen de WhatsApp 2025-04-09 a las 19 18 38_86895547](https://github.com/user-attachments/assets/07cc44d4-652d-4341-ac2e-12e6f4e37777)
+
 
 ![image](https://github.com/user-attachments/assets/24c99181-f7f6-43f6-bf95-d5062bf082bc)
 
