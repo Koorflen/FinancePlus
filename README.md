@@ -60,11 +60,30 @@ Simulador de gestor de finanzas en pseint
 ### 🔧 QA Tester - Pruebas
 **Caso 1**: Al ingresar el usuario, los ingresos, gastos fijos, gastos variables, planificación de ahorros, plan de ahorro y los meses a completar el objetivo del plan de ahorro todo ejecuta perfectamente 
 
+
+
 **Caso 2**: Cuando se termina el proceso anterior se procede a dar consejos útiles para finanzas correctamente 
+
+
 
 **Caso 3**: El resumen de todo lo ingresado y con ello la cantidad a ahorrar establecida se imprimen correctamente 
 
+
+
 **Caso 4**: El proceso se detiene si no se quiere hacer mas simulaciones
+
+
+![image](https://github.com/user-attachments/assets/24c99181-f7f6-43f6-bf95-d5062bf082bc)
+
+
+![image](https://github.com/user-attachments/assets/876b5fd9-6f0a-405d-bc85-86913d9d21a5)
+
+
+![image](https://github.com/user-attachments/assets/c64884d0-048b-45a3-94a6-fa4f50b16f45)
+
+
+![image](https://github.com/user-attachments/assets/e99905fa-45e4-41b0-a0a6-9e24ba472390)
+
 
 Errores esperados:
 
