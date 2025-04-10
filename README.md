@@ -4,7 +4,7 @@ Simulador de gestor de finanzas en pseint
 ---
 ## 🔀 Roles y entregables
 
-### 👥 Product Owner - Requisit
+### 👥 Product Owner - Requisitos
   **Problema:** la sociedad no tiene un buen manejo de sus finanzas  
   **Público objetivo:** personas que deseen gestionar sus ingresos  
 	**Funcionalidades Claves:**
@@ -27,7 +27,7 @@ Simulador de gestor de finanzas en pseint
 
 ---
 
-### 🎨 Diseñador UX/UI - Bocetos y fluj
+### 🎨 Diseñador UX/UI - Bocetos y flujo
 **Bocetos:**
 1. **Pantalla1**:Interfaz principal de la app
 2. **Pantalla2**:Panel de gastos
@@ -39,7 +39,7 @@ Simulador de gestor de finanzas en pseint
 4. **Flujo**: Inicio → Seleccionar Perfil → Ingresar Gastos → Ingresar Ahorros → Ingreso de Metas → Cálculos totales  
 
 ---
-### 🛠️ Desarrollador - Implementaci
+### 🛠️ Desarrollador - Implementación
 **Features:**
 
 1.**Gastos fijos y variables**:
